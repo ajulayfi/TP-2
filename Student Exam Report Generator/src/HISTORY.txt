@@ -3,3 +3,4 @@ Date			Involved team member	Task					Other
 12/8/19			Abdulrahman				create GitHub repo
 12/9/19			Abdulrahman				create class "Class"
 12/9/19              Abdullah                create class "Professor"
+12/9/19			Abdulrahman				create class "Student" + Edit class "Class"

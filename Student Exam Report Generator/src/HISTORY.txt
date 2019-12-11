@@ -7,3 +7,4 @@ Date			Involved team member	Task					Other
 12/9/19               Abdullah                create class "Problem"
 12/9/19			 Abdulrahman				create class "Criteria"
 12/10/19            Abdullah                 create class "Quiz"
+12/11/19            Abdullah                  create class "QuizResult"
